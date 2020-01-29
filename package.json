@@ -17,5 +17,8 @@
     "gulp-uglify": "^1.5.3",
     "gulp-useref": "^3.0.8",
     "gulp-inline-source": "^2.1.0"
+  },
+  "dependencies": {
+    "imagemin": "^7.0.1"
   }
 }
