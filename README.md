@@ -1,6 +1,3 @@
-# Performance Web do Alura
+# Projeto do Curso de Otimização de Performance Web do Alura
 
-Instalando as dependências.
-  ```Fix
-  npm install
-  ```
+Clone o projeto e faça `npm install` para instalar as dependências.
